@@ -131,11 +131,10 @@ bottom: 527px;
     animation: spin-left 10s linear infinite;
     -webkit-animation: spin-left 10s linear infinite;
 }
-
+ 
 #jupiter-label{
-bottom: 417px;
+    bottom: 417px;
 }
-
 /*==================== MARS ====================*/
 
 #mars {
