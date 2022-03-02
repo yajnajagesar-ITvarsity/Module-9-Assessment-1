@@ -48,7 +48,7 @@ h1{
     -webkit-animation: spin-left 14s linear infinite;
 }
 
-#neptune-orbit label{
+#neptune-label{
 bottom: 692px;
 }
 
@@ -77,7 +77,7 @@ bottom: 692px;
     -webkit-animation: spin-left 15s linear infinite;
 }
 
-#uranus-orbit label{
+#uranus-label{
 bottom: 620px;
 }
 
@@ -104,7 +104,7 @@ bottom: 620px;
     -webkit-animation: spin-left 13s linear infinite;
 }
 
-#saturn-orbit label{
+#saturn-label{
 bottom: 527px;
 }
 
@@ -132,7 +132,7 @@ bottom: 527px;
     -webkit-animation: spin-left 10s linear infinite;
 }
 
-#jupiter-orbit label{
+#jupiter-label{
 bottom: 417px;
 }
 
